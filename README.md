@@ -12,7 +12,7 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
 <img src="https://media1.tenor.com/m/oDI9G-MmSQsAAAAC/zenitsu-kimetsu-no-yaiba.gif" width="600" height="300">
 </p>
 <p align="center">
-<a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=License+Dijual+Beli+Sama+MrxMilzx" alt="UwU">
+<a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=License+Dijual+Beli+Sama+t.me/MrxMilzx" alt="UwU">
 </p>
 <p align="center">
 <a href="https://t.me/MrxMilzx"><img title="Telegram" src="https://img.shields.io/badge/Telegram-blue?logo=Telegram&logoColor=blue&labelColor=white&style=flat-square"></a>
@@ -23,7 +23,7 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
 <a href="https://github.com/MrxMilzu?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MrxMilzu?logo=Github&color=green&style=flat-square"></a>
 </p>
 <h5 align="center">
-<a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=Script+Premium+License+Berbayar" alt="UwU">
+<a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=Script+Premium+Lagi-Masa-Perkembangan -_" alt="UwU">
 </h5>
 
 <h1 align="center"> >>PREMIUM FEATURE<< </h1>
