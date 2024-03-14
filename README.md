@@ -82,6 +82,11 @@ git clone https://github.com/MilzxYexia/PREMTOOLV5
 python -m pip install -r module1.txt
 python -m pip install -r module2.txt
 ```
+#### >>> RUN KALI
+```
+cd PREMTOOLV5
+python milzx.py
+```
 ### MY HISTORY BORED
 
 ```bash
