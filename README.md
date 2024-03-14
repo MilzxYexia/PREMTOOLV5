@@ -23,7 +23,7 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
 <a href="https://github.com/MrxMilzu?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/MrxMilzu?logo=Github&color=green&style=flat-square"></a>
 </p>
 <h5 align="center">
-<a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=Script+Premium+Lagi-Masa-Perkembangan -_" alt="UwU">
+<a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=Sc+Premium+Lagi-Masa-Perkembangan -_" alt="UwU">
 </h5>
 
 <h1 align="center"> >>PREMIUM FEATURE<< </h1>
