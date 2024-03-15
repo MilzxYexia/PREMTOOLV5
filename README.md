@@ -8,6 +8,9 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
   <img height="300px" width="200px" src="gambar/tampilan1.jpg">
   <img height="300px" width="200px" src="gambar/tampilan2.jpg">
 </p>
+<h5 align="center" color="red">
+  => MY HISTORY
+</h5>
 <p align="center">
 <img height="100px" width="100px" src="gambar/hyakkimaru.gif">
 <img height="100px" width="100px" src="gambar/anime.gif">
