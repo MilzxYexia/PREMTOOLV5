@@ -49,10 +49,11 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
 | FINDER CCTV  |✔️|
 | CRACK WIFI PASSWORD  |✔️|
 | DLL.  |✔️|
-
+### Script Support
 - [x] Support python3                                  
 - [x] Support Termux
 - [x] Support Linux
+###
 #### >>> INSTALLATION TERMUX
 ```
 pkg update && upgrade -y
