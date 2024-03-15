@@ -152,6 +152,9 @@ else:
 <h2 align="center">->>> SUBSCRIBE MY REAL CHANEL YOUTUBE CONTENT</h2>
 <p align="center">
 <a href="https://youtube.com/channel/@milzu-6319"><img title="Youtube" src="https://img.shields.io/badge/YouTube-SUBSCRIBE-red?logo=YouTube&logoColor=White&labelColor=Green&style=for-the-badge"></a></p>
+<p align="center">
+<a href="https://t.me/MrxMilzx"><img title="Telegram" src="https://img.shields.io/badge/Telegram-CHAT-blue?logo=Telegram&logoColor=White&labelColor=Green&style=for-the-badge"></a></p>
+
 
 <h3>-> NOTE FROM BROTHERHOOD :</h3>
 
