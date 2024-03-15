@@ -50,10 +50,14 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
 | CRACK WIFI PASSWORD  |✔️|
 | DLL.  |✔️|
 ### Script Support
-- [x] Support python3                                  
+- [x] Support Ubuntu
 - [x] Support Termux
-- [x] Support Linux
-###
+- [x] Support Kali Linux
+- [x] Support Wsl
+### Program With
+| BASAHA PEMOGRAMAN  |!|
+| python  |✔️|
+| shell  |✔️|
 #### >>> INSTALLATION TERMUX
 ```
 pkg update && upgrade -y
