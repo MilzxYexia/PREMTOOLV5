@@ -8,7 +8,7 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
   <img height="300px" width="200px" src="gambar/tampilan1.jpg">
   <img height="300px" width="200px" src="gambar/tampilan2.jpg">
 </p>
-<h5 align="center"><font color="red">
+<h5 align="center"><font color="RED">
   => MY HISTORY
 </font>
 </h5>
