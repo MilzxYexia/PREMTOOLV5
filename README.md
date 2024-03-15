@@ -8,8 +8,9 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
   ★«-« 𝐏𝐫𝐞𝐦𝐓𝐨𝐨𝐥𝐬 V5 »-»★
 </h1>
 <p align="center">
-  <img height="300px" width="200px" src="gambar/tampilan1.jpg">
-  <img height="300px" width="200px" src="gambar/tampilan2.jpg">
+  <img height="150px" width="150px" src="gambar/logo1.jpg">
+  <img height="150px" width="150px" src="gambar/logo2.jpg">
+  <img height="300px" width="1/300px" src="gambar/logo3.jpg">
 </p>
 <h5 align="center"><font color="RED">
   => MY HISTORY
