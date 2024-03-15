@@ -5,11 +5,12 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
   ★«-« 𝐏𝐫𝐞𝐦𝐓𝐨𝐨𝐥𝐬 V5 »-»★
 </h1>
 <p align="center">
-  <img height="300px" width="300px" src="Foto/foto2.jpg">
-  <img height="300px" width="300px" src="Foto/foto1.jpg">
+  <img height="300px" width="200px" src="gambar/tampilan1.jpg">
+  <img height="300px" width="200px" src="gambar/tampilan2.jpg">
 </p>
 <p align="center">
-<img src="https://media1.tenor.com/m/oDI9G-MmSQsAAAAC/zenitsu-kimetsu-no-yaiba.gif" width="600" height="300">
+<img height="100px" width="100px" src="gambar/hyakkimaru.gif">
+<img height="100px" width="100px" src="gambar/anime.gif">
 </p>
 <p align="center">
 <a href="https://github.com/MrxMilzu"><img src="http://readme-typing-svg.herokuapp.com?color=E9967A&center=true&vCenter=true&multiline=false&lines=License+Buy+Sama+t.me/MrxMilzx" alt="UwU">
