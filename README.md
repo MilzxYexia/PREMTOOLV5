@@ -59,6 +59,9 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
 | ------------- | ------------- |
 | python  |✔️|
 | shell  |✔️|
+| Java Script  |✔️|
+| Golang |✔️|
+
 #### >>> INSTALLATION TERMUX
 ```
 pkg update && upgrade -y
