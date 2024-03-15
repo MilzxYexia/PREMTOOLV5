@@ -122,9 +122,12 @@ else:
    aink "SEGERA PILIH MENU STAH"
 ```
 <h2 align="center" >->>> DONASI SEGERA </h2>
+| Silahkan donasi | Admin tidak memaksa |
+| ------------- | ------------- |
+|
 <p align="center">
 <a href="https://link.dana.id/qr/3u8s8cbp"><img title="Dana" src="https://img.shields.io/badge/Dana-Blue?logo=Devpost&logoColor=Red&labelColor=Blue&style=for-the-badge"></a>
-</p>
+</p> |
 <p align="center">
 <a href="https://shp.ee/a8kx89x?smtt=0.0.9"><img title="Shopee" src="https://img.shields.io/badge/Shopee-Orange?logo=Shopee&logoColor=Black&labelColor=white&style=for-the-badge"></a>
 </p>
