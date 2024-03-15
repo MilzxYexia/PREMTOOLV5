@@ -56,6 +56,7 @@ SCRIPT INI BARU DIKEMBANGKAN OLEH HACKTIVIS MBF,, ATAU DI SEBUT DENGAN MISTER X 
 - [x] Support Wsl
 ### Program With
 | BASAHA PEMOGRAMAN  |!|
+| ------------- | ------------- |
 | python  |✔️|
 | shell  |✔️|
 #### >>> INSTALLATION TERMUX
