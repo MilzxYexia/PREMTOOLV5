@@ -108,6 +108,13 @@ git clone https://github.com/MilzxYexia/PREMTOOLV5
 python -m pip install -r module1.txt
 python -m pip install -r module2.txt
 ```
+#### FIX EROR CRYPTO OR PYCRYPTO
+'''
+pip uninstall crypto
+pip uninstall pycrypto
+pip install pycrypto
+pip install pycryptodome
+'''
 #### >>> RUN KALI
 ```
 cd PREMTOOLV5
