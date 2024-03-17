@@ -141,7 +141,7 @@ else:
 | DANA | Actived |
 | ------------- | ------------- |
 | <p align="center">
-<a href="https://link.dana.id/qr/3u8s8cbp"><img title="Dana" src="https://img.shields.io/badge/Dana-Blue?logo=Devpost&logoColor=Red&labelColor=Blue&style=for-the-badge"></a>
+<a href="https://link.dana.id/qr/c2ppmenc"><img title="Dana" src="https://img.shields.io/badge/Dana-Blue?logo=Devpost&logoColor=Red&labelColor=Blue&style=for-the-badge"></a>
 </p>
 
 | Shopee | Actived |
